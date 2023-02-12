@@ -1,0 +1,56 @@
+{
+  "uid" : "7c1818451ab60567",
+  "name" : "createNewOrderWithAuthorizationAndWithoutIngredientsTest",
+  "fullName" : "order.CreateOrderTest.createNewOrderWithAuthorizationAndWithoutIngredientsTest",
+  "historyId" : "699b852ef5d94c124d23731ff135807",
+  "time" : {
+    "start" : 1676209107585,
+    "stop" : 1676209108961,
+    "duration" : 1376
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "order"
+  }, {
+    "name" : "testClass",
+    "value" : "order.CreateOrderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createNewOrderWithAuthorizationAndWithoutIngredientsTest"
+  }, {
+    "name" : "suite",
+    "value" : "order.CreateOrderTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NCTBSVOA"
+  }, {
+    "name" : "thread",
+    "value" : "10296@LAPTOP-NCTBSVOA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c1818451ab60567.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,90 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "createNewOrderWithoutAuthorizationAndWithIngredientsTest",
+        "uid" : "e89e5aea21323d87",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676209102251,
+          "stop" : 1676209105932,
+          "duration" : 3681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewOrderWithAuthorizationAndWithIngredientsTest",
+        "uid" : "4aceaf03c7a1d9e6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676209108963,
+          "stop" : 1676209110323,
+          "duration" : 1360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getOrderListWithAuthorizationTest",
+        "uid" : "67c49e7b4398d371",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676209111163,
+          "stop" : 1676209112456,
+          "duration" : 1293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "1 expectation failed.\nJSON path user.email doesn't match.\nExpected: Bill64738@yandex.ru\n  Actual: bill64738@yandex.ru\n",
+      "children" : [ {
+        "name" : "changeUserDataWithAuthorizationTest",
+        "uid" : "4abddad47b741f8c",
+        "parentUid" : "70332e9ec4e95d98843fc7c4063839c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1676209113897,
+          "stop" : 1676209115291,
+          "duration" : 1394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "70332e9ec4e95d98843fc7c4063839c7"
+    }, {
+      "name" : "1 expectation failed.\nExpected status code <401> but was <429>.\n",
+      "children" : [ {
+        "name" : "loginUserWithInvalidPasswordTest",
+        "uid" : "4e320eac0a10bdd7",
+        "parentUid" : "cca82dc58745e690cdbed6821da8c8b8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1676209121266,
+          "stop" : 1676209122573,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cca82dc58745e690cdbed6821da8c8b8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

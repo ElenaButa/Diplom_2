@@ -1,0 +1,56 @@
+{
+  "uid" : "349e56612ecd8885",
+  "name" : "createAndLoginUserTest",
+  "fullName" : "user.LoginUserTest.createAndLoginUserTest",
+  "historyId" : "db872fad0aedc34df9bbba54fcf69d7a",
+  "time" : {
+    "start" : 1676209118608,
+    "stop" : 1676209119953,
+    "duration" : 1345
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "user"
+  }, {
+    "name" : "testClass",
+    "value" : "user.LoginUserTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createAndLoginUserTest"
+  }, {
+    "name" : "suite",
+    "value" : "user.LoginUserTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NCTBSVOA"
+  }, {
+    "name" : "thread",
+    "value" : "10296@LAPTOP-NCTBSVOA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "349e56612ecd8885.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "3192682242fe1ab2",
+  "name" : "changeUserDataWithoutAuthorizationTest",
+  "fullName" : "user.ChangingUserDataTest.changeUserDataWithoutAuthorizationTest",
+  "historyId" : "418f5760fb8255446569217cf56adf10",
+  "time" : {
+    "start" : 1676209112458,
+    "stop" : 1676209113895,
+    "duration" : 1437
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "user"
+  }, {
+    "name" : "testClass",
+    "value" : "user.ChangingUserDataTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "changeUserDataWithoutAuthorizationTest"
+  }, {
+    "name" : "suite",
+    "value" : "user.ChangingUserDataTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NCTBSVOA"
+  }, {
+    "name" : "thread",
+    "value" : "10296@LAPTOP-NCTBSVOA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3192682242fe1ab2.json",
+  "parameterValues" : [ ]
+}

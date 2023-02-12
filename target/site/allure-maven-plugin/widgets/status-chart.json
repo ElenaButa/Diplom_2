@@ -1,0 +1,171 @@
+[ {
+  "uid" : "c8320d5d0a5ac796",
+  "name" : "createNewUniqueUserTest",
+  "time" : {
+    "start" : 1676209116950,
+    "stop" : 1676209117845,
+    "duration" : 895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8147868f693e88b",
+  "name" : "getOrderListWithoutAuthorizationTest",
+  "time" : {
+    "start" : 1676209110704,
+    "stop" : 1676209111161,
+    "duration" : 457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d5a140631bfa38d",
+  "name" : "createUserWithoutEmail",
+  "time" : {
+    "start" : 1676209118212,
+    "stop" : 1676209118602,
+    "duration" : 390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4abddad47b741f8c",
+  "name" : "changeUserDataWithAuthorizationTest",
+  "time" : {
+    "start" : 1676209113897,
+    "stop" : 1676209115291,
+    "duration" : 1394
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c1818451ab60567",
+  "name" : "createNewOrderWithAuthorizationAndWithoutIngredientsTest",
+  "time" : {
+    "start" : 1676209107585,
+    "stop" : 1676209108961,
+    "duration" : 1376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "349e56612ecd8885",
+  "name" : "createAndLoginUserTest",
+  "time" : {
+    "start" : 1676209118608,
+    "stop" : 1676209119953,
+    "duration" : 1345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d789343de52bc30",
+  "name" : "loginUserWithInvalidLoginTest",
+  "time" : {
+    "start" : 1676209119954,
+    "stop" : 1676209121233,
+    "duration" : 1279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67c49e7b4398d371",
+  "name" : "getOrderListWithAuthorizationTest",
+  "time" : {
+    "start" : 1676209111163,
+    "stop" : 1676209112456,
+    "duration" : 1293
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "613e5d394e2ec5fc",
+  "name" : "createUserWithoutPassword",
+  "time" : {
+    "start" : 1676209115293,
+    "stop" : 1676209115667,
+    "duration" : 374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e89e5aea21323d87",
+  "name" : "createNewOrderWithoutAuthorizationAndWithIngredientsTest",
+  "time" : {
+    "start" : 1676209102251,
+    "stop" : 1676209105932,
+    "duration" : 3681
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4d4e658b3532f3be",
+  "name" : "createUserWithoutName",
+  "time" : {
+    "start" : 1676209117847,
+    "stop" : 1676209118211,
+    "duration" : 364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c47dbc99d449b30",
+  "name" : "createUserWhoIsAlreadyRegistered",
+  "time" : {
+    "start" : 1676209115668,
+    "stop" : 1676209116949,
+    "duration" : 1281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e320eac0a10bdd7",
+  "name" : "loginUserWithInvalidPasswordTest",
+  "time" : {
+    "start" : 1676209121266,
+    "stop" : 1676209122573,
+    "duration" : 1307
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f510a36df981f99",
+  "name" : "createNewOrderWithoutAuthorizationAndWithoutIngredientsTest",
+  "time" : {
+    "start" : 1676209110324,
+    "stop" : 1676209110702,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4aceaf03c7a1d9e6",
+  "name" : "createNewOrderWithAuthorizationAndWithIngredientsTest",
+  "time" : {
+    "start" : 1676209108963,
+    "stop" : 1676209110323,
+    "duration" : 1360
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3192682242fe1ab2",
+  "name" : "changeUserDataWithoutAuthorizationTest",
+  "time" : {
+    "start" : 1676209112458,
+    "stop" : 1676209113895,
+    "duration" : 1437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae5c63f3779738d5",
+  "name" : "createNewOrderWithAuthorizationAndWithInvalidIngredientsTest",
+  "time" : {
+    "start" : 1676209106009,
+    "stop" : 1676209107576,
+    "duration" : 1567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

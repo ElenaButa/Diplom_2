@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: order.CreateOrderTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 8.753 s <<< FAILURE! - in order.CreateOrderTest
+createNewOrderWithoutAuthorizationAndWithIngredientsTest(order.CreateOrderTest)  Time elapsed: 3.888 s  <<< ERROR!
+java.lang.NullPointerException
+	at order.CreateOrderTest.createNewOrderWithoutAuthorizationAndWithIngredientsTest(CreateOrderTest.java:80)
+
+createNewOrderWithAuthorizationAndWithIngredientsTest(order.CreateOrderTest)  Time elapsed: 1.361 s  <<< ERROR!
+java.lang.NullPointerException
+	at order.CreateOrderTest.createNewOrderWithAuthorizationAndWithIngredientsTest(CreateOrderTest.java:40)
+
