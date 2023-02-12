@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: order.GetOrderTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.734 s <<< FAILURE! - in order.GetOrderTest
+getOrderListWithAuthorizationTest(order.GetOrderTest)  Time elapsed: 1.293 s  <<< ERROR!
+java.lang.NullPointerException
+	at order.GetOrderTest.getOrderListWithAuthorizationTest(GetOrderTest.java:40)
+

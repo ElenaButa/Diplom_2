@@ -1,0 +1,56 @@
+{
+  "uid" : "4d4e658b3532f3be",
+  "name" : "createUserWithoutName",
+  "fullName" : "user.CreateUserTest.createUserWithoutName",
+  "historyId" : "c3fa2aaad7bd6ab7e6f7d5030d3c41fb",
+  "time" : {
+    "start" : 1676209117847,
+    "stop" : 1676209118211,
+    "duration" : 364
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "user"
+  }, {
+    "name" : "testClass",
+    "value" : "user.CreateUserTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createUserWithoutName"
+  }, {
+    "name" : "suite",
+    "value" : "user.CreateUserTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NCTBSVOA"
+  }, {
+    "name" : "thread",
+    "value" : "10296@LAPTOP-NCTBSVOA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d4e658b3532f3be.json",
+  "parameterValues" : [ ]
+}

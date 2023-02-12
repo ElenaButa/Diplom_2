@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: user.ChangingUserDataTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.83 s <<< FAILURE! - in user.ChangingUserDataTest
+changeUserDataWithAuthorizationTest(user.ChangingUserDataTest)  Time elapsed: 1.394 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path user.email doesn't match.
+Expected: Bill64738@yandex.ru
+  Actual: bill64738@yandex.ru
+
+	at user.ChangingUserDataTest.changeUserDataWithAuthorizationTest(ChangingUserDataTest.java:40)
+

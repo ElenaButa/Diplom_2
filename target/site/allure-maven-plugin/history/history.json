@@ -1,0 +1,330 @@
+{
+  "c3fa2aaad7bd6ab7e6f7d5030d3c41fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d4e658b3532f3be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209117847,
+        "stop" : 1676209118211,
+        "duration" : 364
+      }
+    } ]
+  },
+  "af6502f5f207350e5f1561a9706dbe7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67c49e7b4398d371",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1676209111163,
+        "stop" : 1676209112456,
+        "duration" : 1293
+      }
+    } ]
+  },
+  "5d196c365bd68e8fd3abec6921c3bd2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c47dbc99d449b30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209115668,
+        "stop" : 1676209116949,
+        "duration" : 1281
+      }
+    } ]
+  },
+  "8000ffea58f442a3a7ffcba592a5375d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8320d5d0a5ac796",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209116950,
+        "stop" : 1676209117845,
+        "duration" : 895
+      }
+    } ]
+  },
+  "3c935cbd139aeb27601aadce77f2362" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d5a140631bfa38d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209118212,
+        "stop" : 1676209118602,
+        "duration" : 390
+      }
+    } ]
+  },
+  "699b852ef5d94c124d23731ff135807" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c1818451ab60567",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209107585,
+        "stop" : 1676209108961,
+        "duration" : 1376
+      }
+    } ]
+  },
+  "6fde0fac8aa1b9272d9f7c2ccf5599c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4aceaf03c7a1d9e6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1676209108963,
+        "stop" : 1676209110323,
+        "duration" : 1360
+      }
+    } ]
+  },
+  "11e2cd3ed1afda1a2f5363ab3255b0c2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e320eac0a10bdd7",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <401> but was <429>.\n",
+      "time" : {
+        "start" : 1676209121266,
+        "stop" : 1676209122573,
+        "duration" : 1307
+      }
+    } ]
+  },
+  "cea315c4f9cf7125beb01b869b3e3fbe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d789343de52bc30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209119954,
+        "stop" : 1676209121233,
+        "duration" : 1279
+      }
+    } ]
+  },
+  "75be54fb97493590f203bc4ceefaa282" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e89e5aea21323d87",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1676209102251,
+        "stop" : 1676209105932,
+        "duration" : 3681
+      }
+    } ]
+  },
+  "6e5dca08c6d0c216fc2f3cc0a6ec9849" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8147868f693e88b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209110704,
+        "stop" : 1676209111161,
+        "duration" : 457
+      }
+    } ]
+  },
+  "bfe18755c4c995dfc70c3d69fbc98aab" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4abddad47b741f8c",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nJSON path user.email doesn't match.\nExpected: Bill64738@yandex.ru\n  Actual: bill64738@yandex.ru\n",
+      "time" : {
+        "start" : 1676209113897,
+        "stop" : 1676209115291,
+        "duration" : 1394
+      }
+    } ]
+  },
+  "d71393137bfe13ecc3125a2fc31b21a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f510a36df981f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209110324,
+        "stop" : 1676209110702,
+        "duration" : 378
+      }
+    } ]
+  },
+  "418f5760fb8255446569217cf56adf10" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3192682242fe1ab2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209112458,
+        "stop" : 1676209113895,
+        "duration" : 1437
+      }
+    } ]
+  },
+  "5e042f3f0d255fa80a51710adf67987f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae5c63f3779738d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209106009,
+        "stop" : 1676209107576,
+        "duration" : 1567
+      }
+    } ]
+  },
+  "cf11b53dbdb168e32f3d9dd4f29ba8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "613e5d394e2ec5fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209115293,
+        "stop" : 1676209115667,
+        "duration" : 374
+      }
+    } ]
+  },
+  "db872fad0aedc34df9bbba54fcf69d7a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "349e56612ecd8885",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676209118608,
+        "stop" : 1676209119953,
+        "duration" : 1345
+      }
+    } ]
+  }
+}
